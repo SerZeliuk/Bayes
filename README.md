@@ -19,6 +19,7 @@ This project models the relationships between financial factors and the likeliho
 
 ### Files:
 - **BayesCreditScore.ipynb**: Contains the Bayesian Network implementation for predicting credit worthiness.
+- **BayesCreditScore.pdf**: Contains notebook's preview in a pdf format
 
 ## Project 2: Obesity Prediction
 
@@ -31,6 +32,7 @@ This project models the likelihood of a person becoming obese based on lifestyle
 
 ### Files:
 - **BayesObesity.ipynb**: Contains the Bayesian Network implementation for predicting obesity.
+- **BayesObesity.pdf**: Contains notebook's preview in a pdf format
 - **OB.csv**: Dataset used to train the model.
 
 ## Usage
